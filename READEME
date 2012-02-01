@@ -1,0 +1,3 @@
+NES emulator based on VHDL version 0.8
+
+this code is to run under DE2 board and top is detest.VHDL
